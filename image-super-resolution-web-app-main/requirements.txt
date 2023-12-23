@@ -1,0 +1,11 @@
+Flask
+Flask-Compress
+Flask-Reuploaded
+Flask-WTF
+h5py
+numpy
+opencv-contrib-python-headless
+tensorflow-cpu
+Werkzeug
+WTForms
+gunicorn
